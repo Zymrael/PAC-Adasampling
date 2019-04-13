@@ -3,6 +3,6 @@ An implementation of the algorithm proposed in 'A PAC-Bayesian Analysis of Rando
 
 A faster way for your neural nets to converge. Based on a PAC-Bayesian analysis of generalization bounds.
 
-![algo](algo1.png)
+![algo](resources/algo1.png)
 
 From the paper at (https://arxiv.org/abs/1709.06617)

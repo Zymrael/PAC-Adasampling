@@ -10,4 +10,4 @@ From the paper at (https://arxiv.org/abs/1709.06617)
 ## Dataset
 
 The tests are performed on the Case Western Reserve University (CWRU) fault classification dataset. Slightly more challenging than MNIST:
-![link](https://csegroups.case.edu/bearingdatacenter/pages/welcome-case-western-reserve-university-bearing-data-center-website)
+![url](https://csegroups.case.edu/bearingdatacenter/pages/welcome-case-western-reserve-university-bearing-data-center-website)
